@@ -1,0 +1,5 @@
+('c:\\users\\josep\\desktop\\pynput-master\\.eggs\\six-1.11.0-py3.6.egg',
+ None,
+ {'*.py', '*.pyd', '*.pyc', '*.pyo', 'EGG-INFO', '*.so'},
+ 'DATA',
+ [])
